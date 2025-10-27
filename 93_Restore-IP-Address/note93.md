@@ -17,6 +17,8 @@ Given a string s containing only digits, return all possible valid IP addresses 
 - 以及剩下的字符串。（这里传一个start_idx即可）
 - 当剩余0段时，终止。
 
+写的时候觉得有点难，写完之后就觉得不难了。
 
+在哪里卡住了呢？应该是检查终止条件，以及是否以0开头的这里。重点是去查看长度。
 
 
